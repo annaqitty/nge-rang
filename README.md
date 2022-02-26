@@ -7,8 +7,8 @@
 Clone This Repository In Your Terminal<p>
 
 ```sh
-$ git clone https://github.com/annaqitty/reverse-tools 
-  cd reverse-tools
-  pip3 install -r install.txt
-  pip install -r install.txt
+git clone https://github.com/annaqitty/reverse-tools 
+cd reverse-tools
+pip3 install -r install.txt
+pip install -r install.txt
 ```
